@@ -1,0 +1,29 @@
+{
+  "name": "node-simple-cert",
+  "version": "0.0.1",
+  "description": "Automatically obtain and renew an SSL certificate using Let's Encrypt",
+  "main": "index.js",
+  "dependencies": {
+    "acme-client": "^4.0.0",
+    "debug": "^4.1.1",
+    "prettier": "^2.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chromakode/node-simple-cert.git"
+  },
+  "keywords": [
+    "lets",
+    "encrypt",
+    "ssl",
+    "tls",
+    "certificate",
+    "acme"
+  ],
+  "author": "Max Goodhart <c@chromakode.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chromakode/node-simple-cert/issues"
+  },
+  "homepage": "https://github.com/chromakode/node-simple-cert#readme"
+}
